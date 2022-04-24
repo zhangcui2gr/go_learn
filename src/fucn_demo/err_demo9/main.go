@@ -14,7 +14,7 @@ func test() {
 		}
 	}()
 
-	num1, num2 := 10, 0
+	num1, num2 := 9, 1
 	num3 := num1 / num2
 	fmt.Println("num3 = ", num3)
 }
